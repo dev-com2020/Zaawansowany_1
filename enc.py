@@ -45,3 +45,4 @@ print(encoded2)
 
 decoded = base64.urlsafe_b64decode(encoded)
 print(decoded)
+# test komentarza
